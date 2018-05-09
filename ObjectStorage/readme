@@ -1,0 +1,15 @@
+
+[部署OS-REST服务]
+
+[检查配置]
+
+[设置hadoop登录用户]
+vim ~/.bash_profile
+添加一行:export HADOOP_USER_NAME=hdfs
+source ~/.bash_profile
+
+[部署PostMan测试客户端]
+
+[冒烟测试]
+
+[测试用例-基本功能]
